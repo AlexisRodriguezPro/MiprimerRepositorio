@@ -1,8 +1,6 @@
-
-
 def suma(a: int, b:int) -> int:
     return a + b
 
 
-sumatoria = suma(a, b)
-print(22, 11)
+sumatoria = suma(22, 11)
+print(sumatoria)
